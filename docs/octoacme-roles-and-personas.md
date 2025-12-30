@@ -75,7 +75,77 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designers
+
+### Role Summary
+UX Designers champion the user’s perspective by conducting research, designing interactions, and validating solutions to improve usability and experience quality.
+
+### Responsibilities
+- Lead user research and usability testing activities
+- Design user flows, wireframes, and prototypes
+- Collaborate with Product Managers to define requirements and prioritize improvements
+- Provide visual and interaction specs for Developers
+- Support QA/Testing by clarifying design intent and acceptance criteria
+
+### Goals
+- Ensure a seamless, accessible, and productive user experience
+- Reduce friction and confusion for end users
+- Validate solutions through iterative feedback and testing
+
+### Typical Communication
+- Workshops with Product Manager to align on problem/solution
+- Design reviews with Developers and QA pre-implementation
+- User research debriefs with stakeholders
+
+---
+
+## DevOps Engineers
+
+### Role Summary
+DevOps Engineers develop and maintain the automation and infrastructure necessary for code integration, delivery, and operation at scale.
+
+### Responsibilities
+- Set up and maintain CI/CD pipelines
+- Manage and provision infrastructure (cloud/on-prem)
+- Monitor system health and respond to incidents
+- Partner with Developers to troubleshoot build/release issues
+- Coordinate deployment schedules and communicate environment changes
+
+### Goals
+- Enable rapid, reliable delivery to test and production
+- Minimize manual intervention and environment drift
+- Ensure system reliability, security, and observability
+
+### Typical Communication
+- Incident response with Developers and QA
+- Infrastructure change notifications to Product and Project Managers
+- Documentation of runbooks and deployment guides
+
+---
+
+## Data Analysts
+
+### Role Summary
+Data Analysts enable evidence-based decision-making by collecting, analyzing, and reporting on project data and success metrics.
+
+### Responsibilities
+- Define and implement methods for data collection and reporting
+- Analyze product usage and impact metrics
+- Translate data into actionable insights for Product Managers and stakeholders
+- Collaborate with Developers on data instrumentation and integration
+
+### Goals
+- Increase understanding of user behavior and product impact
+- Support prioritization and success evaluation with sound analysis
+- Maintain quality, accessible, and timely project reporting
+
+### Typical Communication
+- Request metric requirements from Product Manager
+- Share analytical findings and recommendations with delivery team and stakeholders
+- Coordinate with Developers on data collection needs
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
